@@ -724,10 +724,10 @@ function render(variables = {}) {
           <h2>${newRole}</h2>
           <h3>${newCity} ${newCountry}</h3>
           <ul class=${variables.socialMediaPosition}>
-            <li><a href="https://twitter.com/alesanchezr"><i class="fa fa-twitter"></i></a></li>
-            <li><a href="https://github.com/alesanchezr"><i class="fa fa-github"></i></a></li>
-            <li><a href="https://linkedin.com/alesanchezr"><i class="fa fa-linkedin"></i></a></li>
-            <li><a href="https://instagram.com/alesanchezr"><i class="fa fa-instagram"></i></a></li>
+            <li><a href="https://twitter.com/TheBigLebowski"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="https://github.com/sgonzalo"><i class="fa fa-github"></i></a></li>
+            <li><a href="https://linkedin.com/in/jeff-lebowski-a1b114191"><i class="fa fa-linkedin"></i></a></li>
+            <li><a href="https://instagram.com/jeff.lebowski"><i class="fa fa-instagram"></i></a></li>
           </ul>
         </div>
     `;
